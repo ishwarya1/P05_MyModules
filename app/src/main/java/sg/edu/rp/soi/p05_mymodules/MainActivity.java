@@ -47,8 +47,8 @@ public class MainActivity extends AppCompatActivity {
                 intent.putExtra("Name", "iPad Programming");
                 intent.putExtra("Year", "2020");
                 intent.putExtra("Semester", "2");
-                intent.putExtra("Credit", "199");
-                intent.putExtra("Venue", "W23M");
+                intent.putExtra("Credit", "4");
+                intent.putExtra("Venue", "E63B");
                 startActivity(intent);
             }
         });
