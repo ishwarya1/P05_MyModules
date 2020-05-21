@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">P05_MyModules</string>
+    <string name="tv_androidProg">C346 Android Programming</string>
+    <string name="tv_ipadProg">C349 iPad Programming</string>
+    <string name="tv_moduleCode">Module Code:</string>
+    <string name="tv_moduleName">Module Name:</string>
+    <string name="tv_academicYear">Academic Year:</string>
+    <string name="tv_semester">Semester:</string>
+    <string name="tv_moduleCredit">Module Credit:</string>
+    <string name="tv_venue">Venue:</string>
+</resources>
