@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
                 Intent intent = new Intent(getBaseContext(), AboutModuleActivity.class);
                 intent.putExtra("Code", "C346");
                 intent.putExtra("Name", "Android Programming");
-                intent.putExtra("Year", "2018");
+                intent.putExtra("Year", "2020");
                 intent.putExtra("Semester", "1");
                 intent.putExtra("Credit", "4");
                 intent.putExtra("Venue", "W66M");
@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
                 Intent intent = new Intent(getBaseContext(), AboutModuleActivity.class);
                 intent.putExtra("Code", "C349");
                 intent.putExtra("Name", "iPad Programming");
-                intent.putExtra("Year", "2019");
+                intent.putExtra("Year", "2020");
                 intent.putExtra("Semester", "2");
                 intent.putExtra("Credit", "199");
                 intent.putExtra("Venue", "W23M");
